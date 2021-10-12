@@ -1,0 +1,13 @@
+.state-list {
+  display: flex;
+  justify-content: flex-end;
+  &__modal {
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  &__modal-footer {
+    display: flex;
+  }
+}

@@ -1,0 +1,16 @@
+export const EDIT_STATE_START = "[States] Edit State Start";
+export const EDIT_STATE_SUCCESS = "[States] Edit State Success";
+export const EDIT_STATE_FAILURE = "[States] Edit State Failure";
+export const GET_STATES_START = "[States] Get States Start";
+export const GET_STATES_SUCCESS = "[States] Get States Success";
+export const GET_STATES_FAILURE = "[States] Get States Failure";
+export const GET_STATE_START = "[States] Get State Start";
+export const GET_STATE_SUCCESS = "[States] Get State Success";
+export const GET_STATE_FAILURE = "[States] Get State Failure";
+export const DELETE_STATE_START = "[States] Delete State Start";
+export const DELETE_STATE_SUCCESS = "[States] Delete State Success";
+export const DELETE_STATE_FAILURE = "[States] Delete State Failure";
+export const SHOW_DELETE_MODAL = "[States] Show Delete Modal";
+export const CREATE_STATE_START = "[States] Show Delete Modal";
+export const CREATE_STATE_SUCCESS = "[States] Delete State Success";
+export const CREATE_STATE_FAILURE = "[States] Delete State Failure";
